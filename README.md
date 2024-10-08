@@ -38,11 +38,15 @@ while True:
 ```
 ## OUTPUT
 client
+
+
 ![image](https://github.com/user-attachments/assets/1ebab8d4-7f5b-4b61-aca5-fe8c327e5fd7)
 
 
 
 server
+
+
 ![image](https://github.com/user-attachments/assets/989f65dd-b517-46d0-a3b9-85880df21c8b)
 
 
